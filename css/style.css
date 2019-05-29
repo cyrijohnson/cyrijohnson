@@ -8,9 +8,9 @@ body {
   background: #fff;
   color: #859196; }
 .testpics{
-  padding-bottom: 2em;
-  height: 30em;
-  width: 50em;
+    height: 20em;
+    width: 26em;
+    padding-bottom: 1em;
 }
 .lalign{
   text-align: justify;
